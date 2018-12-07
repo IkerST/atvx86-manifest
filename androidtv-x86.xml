@@ -24,7 +24,6 @@
   <remove-project name="platform/packages/apps/Messaging" />
   <remove-project name="platform/packages/apps/OneTimeInitializer" />
   <remove-project name="platform/packages/apps/PackageInstaller" />
-  <remove-project name="platform/packages/apps/Phone" />
   <remove-project name="platform/packages/apps/Provision" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
   <remove-project name="platform/packages/apps/Settings" />
